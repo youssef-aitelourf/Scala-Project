@@ -1,0 +1,103 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/project_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ui[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/ui[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ui/GUIApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/ui/GUIApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ui/runConsoleUI.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/ui/runConsoleUI.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ui/GUIApp$$anon$11.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/ui/GUIApp$$anon$11.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ui/GUIApp$$anon$9.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/ui/GUIApp$$anon$9.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ui/GUIApp$$anon$13.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/ui/GUIApp$$anon$13.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ui/runConsoleUI.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/ui/runConsoleUI.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ui/GUIApp$$anon$12.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/ui/GUIApp$$anon$12.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ui/GUIApp$$anon$8.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/ui/GUIApp$$anon$8.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ui/GUIApp$$anon$10.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/ui/GUIApp$$anon$10.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ui/ConsoleUI$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/ui/ConsoleUI$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ui/GUIApp$$anon$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/ui/GUIApp$$anon$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ui/GUIApp.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/ui/GUIApp.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ui/GUIApp$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/ui/GUIApp$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ui/ConsoleUI$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/ui/ConsoleUI$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ui/GUIApp$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/ui/GUIApp$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ui/GUIApp$$anon$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/ui/GUIApp$$anon$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ui/GUIApp$$anon$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/ui/GUIApp$$anon$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ui/GUIApp$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/ui/GUIApp$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ui/GUIApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/ui/GUIApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ui/ConsoleUI$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/ui/ConsoleUI$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ui/GUIApp$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/ui/GUIApp$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	csv/CsvParser.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/csv/CsvParser.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	csv/CsvParser$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/csv/CsvParser$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	csv/CsvParser.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/csv/CsvParser.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	model[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/model[0m
+[0m[[0m[0mdebug[0m] [0m[0m	model/Runway.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/model/Runway.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	model/Country$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/model/Country$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	model/Runway.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/model/Runway.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	model/Country.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/model/Country.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	model/Airport.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/model/Airport.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	model/Runway$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/model/Runway$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	model/Airport.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/model/Airport.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	model/Country.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/model/Country.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	model/Airport$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/model/Airport$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	services[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/services[0m
+[0m[[0m[0mdebug[0m] [0m[0m	services/DatabaseLoader.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/services/DatabaseLoader.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	services/DataLoader$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/services/DataLoader$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	services/Reports$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/services/Reports$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	services/DatabaseLoader.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/services/DatabaseLoader.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	services/DatabaseLoader$RunwaysTable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/services/DatabaseLoader$RunwaysTable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	services/DatabaseLoader$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/services/DatabaseLoader$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	services/DataLoader.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/services/DataLoader.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	services/Reports.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/services/Reports.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	services/DatabaseLoader$CountriesTable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/services/DatabaseLoader$CountriesTable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	services/Reports.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/services/Reports.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	services/DataLoader.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/services/DataLoader.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	services/DatabaseLoader$AirportsTable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/youssefaitelourf/Desktop/Scala Project/target/scala-3.3.5/classes/services/DatabaseLoader$AirportsTable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
